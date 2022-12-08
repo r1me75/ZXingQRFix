@@ -1,0 +1,13 @@
+C:\Users\muham\Documents\QRPoc\QRPoc\obj\Debug\net6.0\QRPoc.csproj.AssemblyReference.cache
+C:\Users\muham\Documents\QRPoc\QRPoc\obj\Debug\net6.0\QRPoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Documents\QRPoc\QRPoc\obj\Debug\net6.0\QRPoc.AssemblyInfoInputs.cache
+C:\Users\muham\Documents\QRPoc\QRPoc\obj\Debug\net6.0\QRPoc.AssemblyInfo.cs
+C:\Users\muham\Documents\QRPoc\QRPoc\obj\Debug\net6.0\QRPoc.csproj.CoreCompileInputs.cache
+C:\Users\muham\Documents\QRPoc\QRPoc\bin\Debug\net6.0\QRPoc.deps.json
+C:\Users\muham\Documents\QRPoc\QRPoc\bin\Debug\net6.0\QRPoc.dll
+C:\Users\muham\Documents\QRPoc\QRPoc\bin\Debug\net6.0\QRPoc.pdb
+C:\Users\muham\Documents\QRPoc\QRPoc\obj\Debug\net6.0\XamlC.stamp
+C:\Users\muham\Documents\QRPoc\QRPoc\obj\Debug\net6.0\QRPoc.dll
+C:\Users\muham\Documents\QRPoc\QRPoc\obj\Debug\net6.0\refint\QRPoc.dll
+C:\Users\muham\Documents\QRPoc\QRPoc\obj\Debug\net6.0\QRPoc.pdb
+C:\Users\muham\Documents\QRPoc\QRPoc\obj\Debug\net6.0\ref\QRPoc.dll

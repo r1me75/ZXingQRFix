@@ -1,0 +1,1 @@
+C:\Users\muham\Documents\QRPoc\QRPoc\QRPoc.csproj;x64
